@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1668099951 source:/home4/ma234600/Tortue/jpegtex.cpp
+	<cstdio>
+	<cstdlib>
+	<GL/freeglut.h>
+	<jpeglib.h>
+	<jerror.h>
+	<math.h>
+
